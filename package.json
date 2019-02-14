@@ -1,0 +1,14 @@
+{
+  "name": "grep_like",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GrepLike.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shuhin",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
